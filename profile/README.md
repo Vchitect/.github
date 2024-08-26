@@ -1,16 +1,19 @@
 <div align="center">
 <b><font size="5">Vchitect 2.0</font></b>
 
+<p align="center">
+    <picture>
+<img src="https://github.com/Vchitect/.github/blob/main/profile/imgs/logo.png?raw=true" width="350">
+    </picture>
+</p>
 
 ![GitHub User's stars](https://img.shields.io/github/stars/Vchitect)
 
-
+</div>
 
 Welcome to the Vchitect homepage. Vchitect is mainly developed by Shanghai AI Laboratory. We keep working in the field of video generation, open-sourcing the models, benchmark suites, and efficient training tools.
 
-
-
-# 🚀 Updates
+## 🚀 Updates
 
 🔥 **Vchitect 2.0**
 
@@ -20,26 +23,26 @@ Welcome to the Vchitect homepage. Vchitect is mainly developed by Shanghai AI La
 
 
 
-# 🎁 Models
+## 🎁 Models
 
 - 🎉 **[new]** [Vchitect-XL](): Comming soon...
 - [VEnhancer](https://github.com/Vchitect/VEnhancer): A generative space-time enhancement framework that can improve the existing T2V results.
 
 
 
-# 🚀 System
+## 🚀 System
 
 - 🎉 **[new]** [LiteGen](): A light-weight and high-efficient training framework for accelerating diffusion tasks.
 
 
 
-# 🏔️ Bench
+## 🏔️ Bench
 
 - 🎉 **[new]** [VBench](https://github.com/Vchitect/VBench): A comprehensive benchmark suite for video generative models
 
 
 
-# Vchitect 1.0
+## Vchitect 1.0
 
 - [Latte](https://github.com/Vchitect/Latte): Latent Diffusion Transformer for Video Generation
 - [LaVie](https://github.com/Vchitect/LaVie): High-Quality Video Generation with Cascaded Latent Diffusion Models
