@@ -1,5 +1,5 @@
 <div align="center">
-<b><font size="5">Vchitect 2.0</font></b>
+<b><font size="10">Vchitect 2.0</font></b>
 
 <p align="center">
     <picture>
