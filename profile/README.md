@@ -46,10 +46,10 @@ Welcome to the Vchitect homepage. Vchitect is mainly developed by Shanghai AI La
 - 🎉 **[new]** [VBench](https://github.com/Vchitect/VBench): A comprehensive benchmark suite for video generative models
 
 
+## Latte
+- [Latte](https://github.com/Vchitect/Latte): Latent Diffusion Transformer for Video Generation
 
 ## Vchitect 1.0
-
-- [Latte](https://github.com/Vchitect/Latte): Latent Diffusion Transformer for Video Generation
 - [LaVie](https://github.com/Vchitect/LaVie): High-Quality Video Generation with Cascaded Latent Diffusion Models
 - [VideoBooth](https://github.com/Vchitect/VideoBooth): Diffusion-based Video Generation with Image Prompts
 - [Vlogger](https://github.com/Vchitect/Vlogger): A generic AI system for generating a minute-level video blog (i.e., vlog) of user descriptions.
