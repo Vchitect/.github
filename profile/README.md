@@ -20,7 +20,7 @@ Welcome to the Vchitect homepage. Vchitect is mainly developed by Shanghai AI La
 
 - [08/2024] LaVie-2 is coming soon
 
-🔥 **Vchitect XL**
+🔥 **Vchitect 2.0**
 
 - [08/2024] We release Vchitect 2.0, including the model and the training system
   - **Model**: [Vchitect-XL]() is a high-quality video generative model with **2 billion parameters,** supporting resolutions up to 720x480 and video durations of 10-20 seconds. Besides, We are also developing a larger verison with 5 billion parameters, and will  be released in the future.
