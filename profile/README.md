@@ -1,11 +1,12 @@
 <div align="center">
-<b><font size="10">Vchitect 2.0</font></b>
 
 <p align="center">
     <picture>
 <img src="https://github.com/Vchitect/.github/blob/main/profile/imgs/logo.png?raw=true" width="350">
     </picture>
 </p>
+
+<b><font size="5">Vchitect 2.0</font></b>
 
 ![GitHub User's stars](https://img.shields.io/github/stars/Vchitect)
 
