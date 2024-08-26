@@ -6,7 +6,7 @@
     </picture>
 </p>
 
-<b><font size="5">Vchitect 2.0</font></b>
+<!--<b><font size="5">Vchitect 2.0</font></b>-->
 
 ![GitHub User's stars](https://img.shields.io/github/stars/Vchitect)
 
