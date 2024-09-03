@@ -18,7 +18,7 @@ Welcome to the Vchitect homepage. Vchitect is mainly developed by Shanghai AI La
 
 🔥 **LaVie-2**
 
-- [08/2024] LaVie-2 is coming soon
+- [08/2024] [LaVie-2]() is coming soon
 
 🔥 **Vchitect 2.0**
 
