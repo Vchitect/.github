@@ -50,7 +50,7 @@ Welcome to the Vchitect homepage. Vchitect is mainly developed by Shanghai AI La
 
 ## Vchitect 1.0
 - [LaVie](https://github.com/Vchitect/LaVie): High-Quality Video Generation with Cascaded Latent Diffusion Models
+- [SEINE](https://github.com/Vchitect/SEINE): Short-to-Long Video Diffusion Model for Generative Transition and Prediction
 - [VideoBooth](https://github.com/Vchitect/VideoBooth): Diffusion-based Video Generation with Image Prompts
 - [Vlogger](https://github.com/Vchitect/Vlogger): A generic AI system for generating a minute-level video blog (i.e., vlog) of user descriptions.
-- [SEINE](https://github.com/Vchitect/SEINE): Short-to-Long Video Diffusion Model for Generative Transition and Prediction
 - [Optix](https://github.com/Vchitect/Optix): Memory Efficient Training Framework for Large Video Generation Model
