@@ -2,11 +2,9 @@
 
 <p align="center">
     <picture>
-<img src="https://github.com/Vchitect/.github/blob/main/profile/imgs/logo.png?raw=true" width="350">
+<img src="imgs/logo.png?raw=true" width="350">
     </picture>
 </p>
-
-<!--<b><font size="6">Vchitect 2.0</font></b>-->
 
 ![GitHub User's stars](https://img.shields.io/github/stars/Vchitect)
 
@@ -20,17 +18,17 @@ Welcome to the Vchitect homepage. Vchitect is mainly developed by Shanghai AI La
 
 - [09/2024] We release Vchitect 2.0, including the model and the training system
   - **Model**: 
-    - [Vchitect-XL]() is a high-quality video generative model with **2 billion parameters,** supporting resolutions up to 720x480 and video durations of 10-20 seconds. Besides, We are also developing a larger verison with 5 billion parameters, and will  be released in the future.
+    - [Vchitect-2.0](https://github.com/Vchitect/Vchitect-2.0) is a high-quality video generative model with **2 billion parameters,** supporting resolutions up to 720x480 and video durations of 10-20 seconds. Besides, We are also developing a larger verison with 5 billion parameters, and will  be released in the future.
     - [VEnhancer](https://github.com/Vchitect/VEnhancer) is a generative space-time enhancement framework. It integrates super-resolution, frame interpolation, and video refinement to elevate the video quality to **2K resolution at 24 FPS**.
   - **System**: 
-    - [LiteGen](https://github.com/Vchitect/LiteGen) is a lightweight and highly efficient training framework for diffusion tasks. It supports sequence lengths of up to **1.63 million tokens** using 8x NVIDIA A100 GPU cards during the training of the [Vchitect-XL]() model.
+    - [LiteGen](https://github.com/Vchitect/LiteGen) is a lightweight and highly efficient training framework for diffusion tasks. It supports sequence lengths of up to **1.63 million tokens** using 8x NVIDIA A100 GPU cards during the training of the [Vchitect-2.0](https://github.com/Vchitect/Vchitect-2.0) model.
   - **Benchmark**: 
     - [VBench](https://github.com/Vchitect/VBench) is a comprehensive benchmark suite for video generative models, covering **28 text-to-video generation models** and **12 image-to-video generation models**.
 
 
 ## 🎁 Model
 
-- 🎉 **[new]** [Vchitect-XL](): Coming soon...
+- 🎉 **[new]** [Vchitect-2.0](https://github.com/Vchitect/Vchitect-2.0): A high-quality video generation video with resolutions up to 720x480 and video durations of 10-20 seconds.
 - 🎉 **[new]** [VEnhancer](https://github.com/Vchitect/VEnhancer): A generative space-time enhancement framework that can improve the existing T2V results.
 
 
