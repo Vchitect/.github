@@ -6,8 +6,7 @@
     </picture>
 </p>
 
-![GitHub User's stars](https://img.shields.io/github/stars/Vchitect)
-![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/Vchitect&label=stars&query=$.stars&color=yellow&logo=github&style=social)
+![Stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Vchitect/.github/main/badges/stars.json)
 
 </div>
 
