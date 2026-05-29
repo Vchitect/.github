@@ -1,0 +1,25 @@
+  name: Update Stars Badge
+  on:
+    schedule:
+      - cron: '0 0 * * *'
+    workflow_dispatch:
+
+  jobs:
+    update:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v4
+        - name: Fetch and format stars
+          run: |
+            STARS=$(curl -s "https://api.github-star-counter.workers.dev/user/Vchitect" | python3 -c "
+            import sys, json
+            n = json.load(sys.stdin)['stars']
+            print(f'{n/1000:.1f}k' if n >= 1000 else str(n))
+            ")
+            echo "{\"schemaVersion\":1,\"label\":\"stars\",\"message\":\"${STARS}\",\"color\":\"yellow\",\"logo\":\"github\"}" > badges/stars.json
+        - name: Commit
+          run: |
+            git config user.name github-actions
+            git config user.email actions@github.com
+            git add badges/stars.json
+            git diff --staged --quiet || (git commit -m "chore: update star badge" && git push)
