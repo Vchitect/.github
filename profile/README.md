@@ -6,7 +6,7 @@
     </picture>
 </p>
 
-![Stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Vchitect/.github/main/badges/stars.json)
+![Stars](https://img.shields.io/github/stars/Vchitect)
 
 </div>
 
