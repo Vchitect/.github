@@ -1,14 +1,16 @@
-<div align="center">
+ <div align="center">
 
-<p align="center">
+  <p align="center">
     <picture>
-<img src="imgs/logo.png?raw=true" width="350">
+      <img src="imgs/logo.png?raw=true" width="350">
     </picture>
-</p>
+  </p>
 
-[![Stars](https://img.shields.io/github/stars/Vchitect/.github?logo=github&label=Stars&color=yellow)](https://github.com/Vchitect/.github/stargazers)
+  <a href="https://github.com/Vchitect">
+    <img src="https://github-readme-stats.vercel.app/api?username=Vchitect&hide=commits,prs,issues,contribs&hide_rank=true&show_icons=true&custom_title=Vchitect%20Stars&theme=transparent" />
+  </a>
 
-</div>
+  </div>
 
 Welcome to the Vchitect homepage. Vchitect is mainly developed by Shanghai AI Laboratory. We keep working in the field of video generation, open-sourcing the models, benchmark suites, and efficient training tools.
 
