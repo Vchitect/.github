@@ -6,9 +6,7 @@
     </picture>
   </p>
 
-  <a href="https://github.com/Vchitect">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vchitect&hide=commits,prs,issues,contribs&hide_rank=true&show_icons=true&custom_title=Vchitect%20Stars&theme=transparent" />
-  </a>
+ ![Stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Vchitect/.github/main/badges/stars.json)
 
   </div>
 
