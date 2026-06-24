@@ -6,7 +6,7 @@
     </picture>
 </p>
 
-![Stars](https://img.shields.io/badge/stars-9.2k-yellow?logo=github)
+[![Stars](https://img.shields.io/github/stars/Vchitect/.github?logo=github&label=Stars&color=yellow)](https://github.com/Vchitect/.github/stargazers)
 
 </div>
 
